@@ -1,0 +1,25 @@
+/* Attemp1: */
+/* .Exercise1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+.productInfo {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid;
+  padding: 1rem;
+  margin: 1rem 0;
+} */
+
+/* Attempt2: */
+.Exercise7 {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Exercise7 ul {
+  list-style: none;
+}
+.Exercise7 li {
+  display: flex;
+  justify-content: space-between;
+}

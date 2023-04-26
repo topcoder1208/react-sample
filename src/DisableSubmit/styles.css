@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+.Exercise4 h1 {
+  margin: 1rem;
+}
+.Exercise4 .App {
+  font-family: sans-serif;
+}
+
+.Exercise4 .circle-counter {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Exercise4 .resetPasswordForm label {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.Exercise4 button {
+  margin-left: 0.5rem;
+}
+.Exercise4 .resetPasswordForm button[type="submit"] {
+  display: block;
+  margin-left: 0;
+}
